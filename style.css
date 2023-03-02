@@ -1,0 +1,106 @@
+.body{
+    background-image: url(kara-eads-buhmhprfo3g-unsplash.jpg);
+  font-family: 'Tenor Sans';
+}
+.h1{
+    border:20px whitesmoke;
+    
+    text-align: center;
+   
+}
+.div1{
+  background-image: url(jose-aponte-MQyWat9nvBI-unsplash.jpg);
+     background-repeat: no-repeat;
+    width: 100%;
+    height: 400px; 
+}
+.li2{
+  display: flex;
+ align-items: center;
+ justify-content: center;
+ 
+}
+
+
+ul{
+    display: flex;
+    list-style: none;
+    gap: 70px;
+}
+.icon1,
+.icon2,
+.icon3{
+    width: 30px;
+    height: 30px;
+}
+.img1,
+.img2,
+.img3,
+.img4{
+    width:23%;
+    height:300px;
+  
+}
+.img5{
+    width:50%;
+    height:350px;
+}
+.img6{
+width: 35%;
+height: 350px;
+}
+.img6,
+.myimg{
+    padding: 50px;
+}
+.img7{
+    width: 500px;
+    height: 600px;
+    padding: 30px;
+}
+.img8,
+.img9{
+  margin: 30px;
+    width:400px;
+    height:300px;
+}
+.div2{
+    background-color: black;
+    color: white;
+}
+.mydiv{
+    display: flex;
+    
+}
+.mydiv1{
+   
+}
+.img10{
+    float: right;
+    width: 700px;
+    height: 300px;
+} 
+
+   
+
+.div3{
+    border: 5px black;
+}
+.div4 {
+    background-color: black;
+ display: flex;
+ color: white;
+ justify-content: space-between;
+}
+.div5{
+    display: flex;
+    justify-content: space-between;
+    text-decoration-line: underline;
+    
+}
+
+
+.div6{
+    display: flex;
+    
+}
